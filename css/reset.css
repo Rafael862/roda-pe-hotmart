@@ -1,0 +1,12 @@
+*{
+	margin: 0; /*sempre resetar os padroes do navegador, pois todos são diferentes.*/
+	padding: 0;
+	box-sizing: border-box; /*colocar obrigatoriamente no site*/
+  }
+  ul, ol, li{
+   list-style: none;/*resetando os padroes de listas, obrigatorio.*/
+   list-style-type: none;
+ }
+ a{
+   text-decoration: none;
+ }

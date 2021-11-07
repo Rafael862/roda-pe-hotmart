@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+nav{
+    width: 284px;
+    height: 296px;
+}
+
+.titulo__footer{
+    margin: 0px 0px 32px;
+    display: block;
+    font-family: 'Nunito', sans-serif;
+}
+
+li{
+    width: 296px;
+    height: 25px;
+    color: #353a40;
+    line-height: 25.6px;
+    text-align: left;
+    margin: 0px 0px 16px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.footer__area-1{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 50px;
+    margin-left: 35px;
+    margin-top: 185px;
+}
